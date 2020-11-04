@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Time Tracker App</string>
+    <string name="logout">log out</string>
+    <string name="cancel_button">Cancel</string>
+</resources>
